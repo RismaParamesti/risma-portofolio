@@ -1,0 +1,6 @@
+/* App-specific styles live mostly in Tailwind utility classes.
+   This file stays as a lightweight home for any future overrides. */
+
+#root {
+  min-height: 100vh;
+}
